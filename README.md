@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola a todos, este es mi perfil de GitHub
+## Me presento:
+#Me llamo María Guillén Mateos y osy estudiante en Desarrollo de Aplicaciones Web, en el centro IES Los Alcores.
+Solo tengo bachillerato, y mi intención de futuro es dedicarme a la informática, ya que es un ámbito que me apasiona.
+En la actualidad estoy formandome y desarrollando mis conocimientos en la formación dual de la modalidad de este curso.
 
 <!--
 **mariiaguillen04/mariiaguillen04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
