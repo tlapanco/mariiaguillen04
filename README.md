@@ -1,5 +1,5 @@
 ### Hola a todos, este es mi perfil de GitHub
-## Me presento:
+## Mi presentacion:
 #Me llamo María Guillén Mateos y osy estudiante en Desarrollo de Aplicaciones Web, en el centro IES Los Alcores.
 Solo tengo bachillerato, y mi intención de futuro es dedicarme a la informática, ya que es un ámbito que me apasiona.
 En la actualidad estoy formandome y desarrollando mis conocimientos en la formación dual de la modalidad de este curso.
